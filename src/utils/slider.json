@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "M2K Victoria Gardens",
+    "price": "2 Cr",
+    "detail": "Model Town, North West Delhi, New Delhi",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "TARC Tripundra",
+    "price": "3.5 Cr.",
+    "detail": "Main Bijwasan Road, Opposite Pushpanjali Farms, Bijwasan Road, New Delhi",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "DLF King's Court",
+    "price": "4 Cr",
+    "detail": "W, ALaknanda Road,Greater Kailash,Delhi",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Godrej South Estate",
+    "price": "1.5 Cr",
+    "detail": "Okhla Phase - 1, Delhi",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "DLF One Midtown",
+    "price": "2.4 Cr",
+    "detail": "Moti Nagar, Delhi",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "M2K Victoria Gardens",
+    "price": "2 Cr",
+    "detail": "Model Town, North West Delhi, New Delhi",
     "image": "./r3.png"
   }
 ]

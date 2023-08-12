@@ -4,20 +4,17 @@ const data = [
   {
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
-    detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+    detail:"we provide the best interest rates with easy installments.So no worry for interest rates.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
-    detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+    detail:"Our prizes remain stable for all our clients because we prefer equality for all. we don't change our prizes based on different scenarios.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
-    detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+    detail:"we provide the cheapest prizes to all our clients.we provide the cheapest rates from all of our competitors.",
   },
 ];
 export default data;
